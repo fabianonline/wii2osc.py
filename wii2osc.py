@@ -20,7 +20,8 @@ import OSC
 # If you dont' want to use fixed addresses, use the following syntax:
 # addresses = {}
 
-addresses = {"00:1F:C5:50:E9:B7": "fabian", "00:19:1D:6D:9E:C6": "markus", "00:17:AB:3B:A5:78": "jan"}
+#addresses = {"00:1F:C5:50:E9:B7": "fabian", "00:19:1D:6D:9E:C6": "markus", "00:17:AB:3B:A5:78": "jan"}
+addresses = {}
 ############ End of configuration ############
 
 if len(sys.argv)<3 or sys.argv[1]=="--help" or sys.argv[1]=="-h":
