@@ -1,4 +1,4 @@
-# wii2osc
+# wii2osc.py
 
 Send OSC messages depending on events on a wiimote.
 
@@ -15,8 +15,8 @@ will have to figure out how to install it elsewhere by yourself.
 
 * `sudo apt-get update`
 * `sudo apt-get install python-cwiid python-pip git`
-* `git clone https://github.com/fabianonline/wii2python.git`
-* `cd wii2osc`
+* `git clone https://github.com/fabianonline/wii2python.py.git`
+* `cd wii2osc.py`
 * `pip install -r requirements.txt`
 
 ## Usage
